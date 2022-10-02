@@ -1,34 +1,34 @@
-#Headings
+# Ken's User Page
 
-**Styling text**
+[Skip to the bird section.](#bird-section)
 
->Quoting text
+**I am a fan of Python, but have dabbled in C/C++/Java/Ruby/Clojure.**
 
-`Quoting code`
+>Which is not, to say, that I'm any good at any of them. For example, would you like a cursed pomodoro?
 
-[External Links](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+```python
+from time import sleep
 
-[Section link](##bird-section)
+while True: [eval(_) for _ in ["print('work!\a')", "sleep(25*60)", "print('rest!\a\a')", "sleep(5*60)"]]
+```
 
-##Bird section
+I get my news from [the AP.](https://apnews.com/)
+
+## Bird section
 
 ![This was rendered by stable diffusion](bird_by_stablediffusion.png)
 
 [Source image](bird_by_stablediffusion.png)
 
-</br>
-
 1. Ordered 
-2. and 
+2. and
 
-</br>
+[\\]: #
 
 - Unordered 
 - Lists
 
-[//]: #
-
-</br>
+[\\]: #
 
 - [x] Task 
 - [ ] lists
