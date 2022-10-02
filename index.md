@@ -20,17 +20,15 @@ I get my news from [the AP.](https://apnews.com/)
 
 [Source image](bird_by_stablediffusion.png)
 
-</br>
-
 1. Ordered 
-2. and 
+2. and
 
-</br>
+[\\]: #
 
 - Unordered 
 - Lists
 
-</br>
+[\\]: #
 
 - [x] Task 
 - [ ] lists
